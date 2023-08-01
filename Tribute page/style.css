@@ -1,0 +1,19 @@
+#img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#tribute-table {
+  max-width: 100%;
+  height: auto;
+}
+
+table, thead, tr, td, th, tbody {
+  border: 1px solid black;
+}
